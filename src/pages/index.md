@@ -4,9 +4,12 @@ sections:
   - type: hero_section
     title: i sweat the technics
     subtitle: so you dont have to.
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: >
+      whether you're looking for that bugged out arduino how-to, user manuals
+      for that offbrand midi controller you copped off ebay, or schematics for
+      your technics sl1200 ltd hoping that they're just mk3d's covered in gold
+      (which they almost are...) you came to the right place. oh yeah i fix and
+      sell all kinds of gear. so holler at a player.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
