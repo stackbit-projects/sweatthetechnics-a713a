@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: i sweatthetechnics
+    title: i sweat the technics
     subtitle: i sweat the technics so you dont have to.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
