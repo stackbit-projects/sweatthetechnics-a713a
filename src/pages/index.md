@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: sweatthetechnics
-    subtitle: Optional hero section subtitle
+    subtitle: i sweat the technics so you dont have to.
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
